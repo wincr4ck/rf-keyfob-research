@@ -9,7 +9,7 @@
 
 **A comprehensive security research toolkit for automotive RF key fob vulnerabilities, replay attack demonstrations, and defense mechanisms.**
 
-*By Usal Winodith ([@wincr4ck](https://twitter.com/wincr4ck)) — HackTheBox Top 2 Sri Lanka*
+*By Usal Winodith ([@wincr4ck](https://twitter.com/wincr4ck)) *
 
 [Quick Start](#-quick-start) • [Tools](#-tools) • [Vulnerabilities](#-vulnerabilities) • [Installation](#-installation) • [Usage](#-usage)
 
